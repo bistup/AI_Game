@@ -1,0 +1,36 @@
+{
+    "title": "Unexplained Phenomena",
+    "story": [
+        "Unexplained Phenomena"
+    ],
+    "characters": {
+        "suspect": {
+            "name": "John Harrison",
+            "alibi": "He claims he was at home during the time of the incident.",
+            "confirmation": "His alibi was confirmed by multiple witnesses."
+        },
+        "witness": {
+            "name": "Sarah Thompson",
+            "observation": "I was walking in the woods when I saw a strange glowing object in the sky.",
+            "description": "Sarah is a local hiker and frequently explores the remote location where the phenomena occurred."
+        },
+        "npcs": [
+            {
+                "name": "Officer Roberts",
+                "dialogue": "I've never seen anything like this before, there's definitely something strange going on here.",
+                "mood": "Curious"
+            },
+            {
+                "name": "Dr. Rebecca Woods",
+                "dialogue": "I've been studying these phenomena for years, but I still haven't found a rational explanation.",
+                "mood": "Perplexed"
+            }
+        ]
+    },
+    "clues": {
+        "Front door": "The front door of the cabin was found wide open.",
+        "Living room": "There are strange symbols scrawled on the walls.",
+        "Kitchen": "Radiation levels in the kitchen are abnormally high.",
+        "Bedroom": "A diary with cryptic entries mentioning the phenomena was found under the bed."
+    }
+}

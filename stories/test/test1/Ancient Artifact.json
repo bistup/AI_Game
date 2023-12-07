@@ -1,0 +1,47 @@
+{
+    "title": "Ancient Artifact",
+    "story": [
+        "In the small town of Limestone, a local museum curator, Charlotte Green, reported the mysterious disappearance of an ancient artifact with strange powers.",
+        "The artifact, known as the 'Stone of Shadows', was said to bring darkness upon whomever possessed it.",
+        "As more mysterious occurrences unfold in the town, the residents are left wondering about the origins and powers of the 'Stone of Shadows'."
+    ],
+    "prompt": "An image of a small town museum with an ancient artifact missing.",
+    "characters": {
+        "suspect": {
+            "name": "Dr. Edward Monroe",
+            "alibi": "Claimed to be out of town during the disappearance.",
+            "confirmation": "Bought a one-way ticket before the incident.",
+            "mood": "Nervous and evasive"
+        },
+        "witness": {
+            "name": "Claire Williams",
+            "observation": "Saw Dr. Monroe running out of the museum the night of the disappearance.",
+            "description": "Reliable and observant.",
+            "mood": "Disturbed and fearful"
+        },
+        "npcs": [
+            {
+                "name": "Officer Jack Thompson",
+                "dialogue": "We must find the artifact before it's too late.",
+                "mood": "Determined and concerned"
+            },
+            {
+                "name": "Professor Lisa Patel",
+                "dialogue": "I've been researching ancient artifacts with dark powers, and this one is particularly dangerous.",
+                "mood": "Focused and cautious"
+            }
+        ]
+    },
+    "clues": {
+        "Cabinet": "Shows signs of forced entry",
+        "Rubble in garden": "Traces of footprints leading away from the museum",
+        "Note on desk": "'The stone has been taken back to where it belongs' - anonymous note",
+        "Glowing rocks": "Found near the museum at night"
+    },
+    "Solution": {
+        "SuspectInnocence": false,
+        "WitnessInnocence": true,
+        "NPC1_Innocence": true,
+        "NPC2_Innocence": true
+    }
+}

@@ -1,0 +1,24 @@
+12:02 AM - Game started
+02:12 AM - Game started
+02:12 AM - Suspect Mr. Smith: I was in the library all evening. - Confirmed by the butler.
+02:12 AM - Witness Ms. Parker: I saw someone near the window at the time of the incident. - Description: Suspicious figure in dark clothing.
+02:12 AM - Input: i
+02:12 AM - Input: r
+02:12 AM - You enter the library door
+02:12 AM - Input: doors
+02:12 AM - You investigate the room - You find a ring
+02:12 AM - Input: e
+02:12 AM - Input: i
+02:12 AM - NPC John - Butler: ay im wooolkin heere.
+02:12 AM - NPC Mary - Maid: I was cooking some lasanga in the living room.
+02:12 AM - Input: i
+02:12 AM - You continue your investigation, determined to solve the mystery...
+02:12 AM - Input: c
+02:12 AM - Input: r
+02:12 AM - You enter the kitchen door
+02:12 AM - Input: doors
+02:12 AM - You investigate the kitchen - You find a kettle with hot water in it
+02:12 AM - Input: e
+02:12 AM - You enter the front door
+02:12 AM - Input: doors
+02:12 AM - Input: r

@@ -1,0 +1,38 @@
+{
+    "title": "Missing Necklace",
+    "story": [
+        "Mrs. Johnson, a wealthy socialite, discovered that her priceless necklace had gone missing. She immediately reported the incident to the police, who launched an investigation.",
+        "Detective Grant was assigned to the case and began interviewing the individuals present at Mrs. Johnson's glamorous charity event the night before the disappearance.",
+        "The detective had three main suspects in mind - the butler, the maid, and one of the guests. Each one had an alibi, but Detective Grant was determined to find the truth."
+    ],
+    "characters": {
+        "suspect": {
+            "name": "Butler",
+            "alibi": "The butler claimed to have been serving guests in the dining room during the time of the incident.",
+            "confirmation": "However, no one specifically remembered seeing the butler there."
+        },
+        "witness": {
+            "name": "Maid",
+            "observation": "The maid said she saw a shadowy figure near Mrs. Johnson's room around the time of the incident.",
+            "description": "She described the figure as tall and wearing dark clothing."
+        },
+        "npcs": [
+            {
+                "name": "Guest 1",
+                "dialogue": "I have seen the necklace before. It's stunning, but I had no reason to take it.",
+                "mood": "Nervous"
+            },
+            {
+                "name": "Guest 2",
+                "dialogue": "I noticed the library door was slightly ajar during the event.",
+                "mood": "Curious"
+            }
+        ]
+    },
+    "clues": {
+        "Front Door": "The front door appeared to be locked and undisturbed.",
+        "Library Door": "The library door had been left slightly open, as mentioned by one of the guests.",
+        "Kitchen Door": "The kitchen door had a broken lock, but there were no signs of forced entry.",
+        "Lobby": "The lobby was crowded during the event, making it difficult to determine any suspicious activity."
+    }
+}

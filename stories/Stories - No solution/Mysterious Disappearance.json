@@ -1,0 +1,38 @@
+{
+    "title": "Mysterious Disappearance",
+    "story": [
+        "On the sleepy town of Willowbrook,",
+        "there has been great unrest.",
+        "A young girl has disappeared is utterly hawkless."
+    ],
+    "characters": {
+        "suspect": {
+            "name": "Evelyn Greene",
+            "alibi": "Evelyn claims to have been home alone the entire night of the girl's disappearance.",
+            "confirmation": "There are no witnesses or evidence to confirm or dispute her alibi."
+        },
+        "witness": {
+            "name": "Mrs. Rosemary Anderson",
+            "observation": "Mrs. Anderson observed a strange figure lurking near the girl's house on the day of her disappearance. The figure was wearing a black raincoat and had a distinctive walking style.",
+            "description": "Mrs. Anderson is an elderly lady who lives next door to the girl's house. She spends her time gardening and keeping an eye on the neighborhood."
+        },
+        "npcs": [
+            {
+                "name": "Officer Tom Mason",
+                "dialogue": "I've been investigating this case since day one. There's something suspicious about Evelyn, but I can't find any solid evidence.",
+                "mood": "suspicious"
+            },
+            {
+                "name": "Dr. Linda Chambers",
+                "dialogue": "As a psychologist, I can confirm that Evelyn has a history of odd behavior and may be capable of committing such a crime.",
+                "mood": "quizzical"
+            }
+        ]
+    },
+    "clues": {
+        "basement": "Bloody clothes",
+        "bedroom": "Open diary with disturbing entries",
+        "front gate": "Footprints leading away from the house",
+        "playground": "Piece of a torn photo with a mysterious emblem"
+    }
+}

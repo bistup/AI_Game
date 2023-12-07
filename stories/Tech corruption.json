@@ -1,0 +1,45 @@
+{
+    "title": "Tech corruption",
+    "story": [
+        "In the heart of Silicon Valley, a powerful tech company's facade of innovation flows a dark underbelly of corruption and deceit.",
+        "Employees have started disappearing mysteriously, their families left with no answers and the company offering no explanation.",
+        "Our investigation will uncover the truth behind the corporation's malevolent dealings and bring justice to those affected."
+    ],
+    "prompt": "An image of a dark and luxurious office building with a hidden layer of corruption",
+    "characters": {
+        "suspect": {
+            "name": "Martin Warner",
+            "alibi": "Claims to have been in a business meeting at the time of the disappearances.",
+            "confirmation": "Security footage places him at the office during the times of the incidents.",
+            "mood": "Nervous and defensive",
+            "innocent": false
+        },
+        "witness": {
+            "name": "Elena Rodriguez",
+            "observation": "Notices strange activity in the company's server room at odd hours.",
+            "description": "Determined and fearless in her pursuit of the truth",
+            "mood": "Driven to uncover the truth",
+            "innocent": true
+        },
+        "npcs": [
+            {
+                "name": "Isabelle Thompson",
+                "dialogue": "I heard footsteps in the hallway late at night, but when I checked, no one was there.",
+                "mood": "Anxious and fearful",
+                "innocent": true
+            },
+            {
+                "name": "Jake Peterson",
+                "dialogue": "I saw Martin Warner entering the restricted area last Friday night.",
+                "mood": "Cautious and secretive",
+                "innocent": false
+            }
+        ]
+    },
+    "clues": {
+        "Front entrance": "Security footage of Martin Warner entering the building at unusual hours.",
+        "Server room": "A mysterious and unauthorized USB drive found connected to the main server.",
+        "Employee's desk": "Notes referencing shady backdoor deals with government officials.",
+        "CEO's office": "A hidden stash of cash and incriminating documents locked in the CEO's safe."
+    }
+}

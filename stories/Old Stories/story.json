@@ -1,0 +1,38 @@
+{
+    "title": "The Mysterious Murder",
+    "story": [
+        "Once upon a time, in a small town called Maplewood, a murder took place.",
+        "The victim, Mr. Anderson, was found dead in his mansion late one night.",
+        "Who could have done such a thing?"
+    ],
+    "characters": {
+        "suspect": {
+            "name": "Mrs. Jenkins",
+            "alibi": "Mrs. Jenkins claims to have been at a charity event during the time of the murder.",
+            "confirmation": "However, no one at the event can confirm her presence."
+        },
+        "witness": {
+            "name": "Detective Johnson",
+            "observation": "Detective Johnson observed a suspicious figure leaving the crime scene.",
+            "description": "The figure was tall, wearing a black coat and a hat that covered their face."
+        },
+        "npcs": [
+            {
+                "name": "Butler",
+                "dialogue": "I have served Mr. Anderson for years and I can't believe he is gone.",
+                "mood": "Sad"
+            },
+            {
+                "name": "Maid",
+                "dialogue": "I saw Mrs. Jenkins leaving the mansion that night. She looked anxious.",
+                "mood": "Nervous"
+            }
+        ]
+    },
+    "clues": {
+        "Front Door": "The front door was locked from the inside.",
+        "Library Door": "The library door was ajar, suggesting someone may have entered or exited through it.",
+        "Kitchen Door": "The kitchen door was found wide open.",
+        "Lobby": "There were footprints leading from the lobby to the library."
+    }
+}

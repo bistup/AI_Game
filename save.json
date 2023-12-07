@@ -1,0 +1,14 @@
+{
+"keith":
+    {
+        "save_data":
+        {
+            "characters_interacted": true,
+            "doors_investigated": [true,false,true],
+            "people_spoken_to": true,
+            "NPCs_spoken_to": true,
+            "clues": [""]
+            
+        }
+    }
+}

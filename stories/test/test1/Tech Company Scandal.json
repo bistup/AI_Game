@@ -1,0 +1,44 @@
+{
+    "title": "Tech Company Scandal",
+    "story": [
+        "A renowned scientist's discovery has",
+        "uncovered a web of corporate corruption",
+        "within a powerful tech company."
+    ],
+    "characters": {
+        "suspect": {
+            "name": "Dr. Maya Parker",
+            "alibi": "Dr. Parker claims she was in her lab developing a new project during the time of the scandal.",
+            "confirmation": "A lab technician confirms that Dr. Parker was indeed present in the lab during the time of the scandal."
+        },
+        "witness": {
+            "name": "James Anderson",
+            "observation": "James witnessed suspicious behavior",
+            "description": "He is a junior employee in the company who stumbled upon some confidential files."
+        },
+        "npcs": [
+            {
+                "name": "Alexis Thompson",
+                "dialogue": "Alexis works as an executive in the tech company and denies any involvement in the corruption.",
+                "mood": "Anxious"
+            },
+            {
+                "name": "Mark Johnson",
+                "dialogue": "Mark, a whistleblower, provides evidence of the corrupt practices and names some high-ranking executives as culprits.",
+                "mood": "Determined"
+            }
+        ]
+    },
+    "clues": {
+        "Office Document": "A confidential document in the suspect's office implicates several senior executives.",
+        "Email Trail": "An email thread suggests communication between the culprits and external parties involved in the corruption.",
+        "Money Trail": "Financial records highlight large sums of money flowing through offshore accounts related to the tech company.",
+        "Whistleblower's Recording": "A hidden recording from the whistleblower captures a conversation between two executives discussing the corrupt activities."
+    },
+    "Solution": {
+        "SuspectInnocence": false,
+        "WitnessInnocence": true,
+        "NPC1_Innocence": false,
+        "NPC2_Innocence": true
+    }
+}

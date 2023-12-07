@@ -1,0 +1,39 @@
+{
+    "title": "Mysterious Disappearance",
+    "story": [
+        "A small town is upended when a beloved resident goes missing.",
+        "All eyes turn to the husband as the prime suspect, but is he really guilty?",
+        "With the town's dark secrets gradually exposed, the truth threatens",
+        "to tear their community apart."
+    ],
+    "characters": {
+        "suspect": {
+            "name": "Husband",
+            "alibi": "The husband claims he was at work during the time of the disappearance.",
+            "confirmation": "Witnesses at his workplace confirm his alibi."
+        },
+        "witness": {
+            "name": "Neighbors",
+            "observation": "They heard a loud argument coming from the couple's house the night before the disappearance.",
+            "description": "The neighbors describe the couple as seemingly happy, but quiet and reserved."
+        },
+        "npcs": [
+            {
+                "name": "Best Friend",
+                "dialogue": "The friend recalls a conversation where the missing person expressed doubts about the marriage.",
+                "mood": "Concerned"
+            },
+            {
+                "name": "Police Officer",
+                "dialogue": "The officer mentions a history of domestic violence reports filed against the husband.",
+                "mood": "Suspicious"
+            }
+        ]
+    },
+    "clues": {
+        "Living Room": "A broken picture frame lies on the floor.",
+        "Kitchen": "The missing person's cellphone is left behind, suggesting she didn't leave voluntarily.",
+        "Basement": "Blood stains are discovered on the floor.",
+        "Attic": "A hidden diary uncovers the missing person's unhappiness in her marriage."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Lost Disappearance",
+    "story": [
+        "In the small town of Ravensdale, a young girl named Sarah Miller has mysteriously disappeared.",
+        "Sarah was last seen leaving her house on Park Street to walk to school, but she never made it to school that day.",
+        "Neighbors reported seeing a suspicious looking man lurking around the neighborhood around the time Sarah disappeared.",
+        "The police have launched an investigation, but they have no leads on Sarah's whereabouts."
+    ],
+    "characters": {
+        "suspect": {
+            "name": "John Lawson",
+            "alibi": "John claims he was at work during the time Sarah disappeared.",
+            "confirmation": "John's supervisor confirmed that he was indeed at work during the time of the disappearance."
+        },
+        "witness": {
+            "name": "Mrs. Johnson",
+            "observation": "Mrs. Johnson claims she saw Sarah getting into a dark-colored car with a man.",
+            "description": "She described the man as tall, with a beard and sunglasses."
+        },
+        "npcs": [
+            {
+                "name": "Officer Roberts",
+                "dialogue": "I've been on the force for over 10 years but I've never seen a disappearance like this. We're doing everything we can to find Sarah.",
+                "mood": "concerned"
+            },
+            {
+                "name": "Mr. Miller",
+                "dialogue": "My daughter is a good student who never causes any trouble. I just want her back.",
+                "mood": "worried"
+            }
+        ]
+    },
+    "clues": {
+        "note": "A note found in Sarah's bedroom mentions meeting someone at the town park after school.",
+        "footprints": "Large footprints found near the park that do not match Sarah's or any known suspects.",
+        "abandoned shack": "An abandoned shack on the outskirts of town contains clothes that match Sarah's description.",
+        "mysterious phone call": "A neighbor claims to have heard a man shouting on the phone the night before Sarah disappeared."
+    }
+}

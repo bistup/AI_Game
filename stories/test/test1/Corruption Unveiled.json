@@ -1,0 +1,44 @@
+{
+    "title": "Corruption Unveiled",
+    "story": [
+        "In Plain Sight",
+        "In a small town nestled deep in the Appalachian Mountains,",
+        "the locals are oblivious to the dark shadows that lurk beneath their picturesque facade."
+    ],
+    "characters": {
+        "suspect": {
+            "name": "Evelyn Sinclair",
+            "alibi": "As an executive at Texcorps, Evelyn claims to be working late on the night of the incident.",
+            "confirmation": "Security footage confirms her presence at the office during the crucial hours."
+        },
+        "witness": {
+            "name": "Oliver Thompson",
+            "observation": "Oliver, a local journalist, stumbled upon some files on Texcorps's illegal activities.",
+            "description": "He is distraught and fearful, realizing the danger he is now exposed to."
+        },
+        "npcs": [
+            {
+                "name": "Ingrid McGregor",
+                "dialogue": "Ingrid runs a local caf\u00e9 known for being a social hub. She has seen many interesting things happening around town.",
+                "mood": "Intrigued"
+            },
+            {
+                "name": "Nathan Bennett",
+                "dialogue": "Nathan, the town mayor, has always been suspicious of Texcorps' activities, but never had hard evidence.",
+                "mood": "Concerned"
+            }
+        ]
+    },
+    "clues": {
+        "front door": "A maintenance report goes missing from the town hall, records say the report implicated Texcorps.",
+        "back door": "An anonymous tipster leaves a letter stating that Texcorps is dumping toxic waste in a nearby pond.",
+        "basement": "Financial records show an unusual spike in Texcorps profits after they allegedly released a faulty product.",
+        "study": "A hidden compartment inside Oliver's desk contains evidence of a secret Texcorps meeting."
+    },
+    "Solution": {
+        "SuspectInnocence": false,
+        "WitnessInnocence": true,
+        "NPC1_Innocence": true,
+        "NPC2_Innocence": true
+    }
+}
